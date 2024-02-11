@@ -68,5 +68,8 @@ Start the server
 
 ## 👋Conclusion
 In this documentation, I have shared my learning experience from the Javascript Mastery Youtube Channel by building a mobile application called "React Native Jobs" using React Native and Expo. I hope this documentation has been helpful and informative.
+If you encounter bugs or wish to add new features, please create a pull request or issue in this repository. Your help is greatly appreciated!
+Feel free to reach out if you have any questions or need further assistance. Thank you for your contribution to the React Native Jobs development!
+
 
 ~Keep Curious and keep learning 🚀
