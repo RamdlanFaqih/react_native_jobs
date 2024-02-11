@@ -62,7 +62,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm expo start
+  npx expo start
 ```
 
 
