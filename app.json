@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ramdlanfaqih.rnjobs"
     },
     "web": {
       "favicon": "./assets/favicon.png",
@@ -31,6 +32,14 @@
     "plugins": [
       "expo-router",
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "aa9e85ef-7f54-418e-9fce-4a94fd950300"
+      }
+    }
   }
 }

@@ -34,7 +34,7 @@ I followed a tutorial from the Javascript Mastery Youtube Channel to learn the b
 In addition to the tutorial, I also referred to the [Expo documentation](https://docs.expo.dev/) to learn more about the specific features used in the project.
 
 ### 💪 Challenges Faced
-One of the challenges I faced was understanding the differences between the current version of Expo and the version used in the tutorial. This required me to spend some time researching and debugging the code.
+The challenges I faced was understanding the differences between the current version of Expo and the version used in the tutorial. And also this is my first time using expo. This required me to spend some time researching and debugging the code.
 
 ### 📈 Overall Experience:
 Overall, I found the learning process to be very rewarding. I was able to learn a lot about React Native with Expo Router development and apply my learnings to create a functional and visually appealing app.
